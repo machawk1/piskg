@@ -9,8 +9,8 @@ desc = """Python IPFS Swarm Key Generator"""
 setup(
     name='piskg',
     version=__version__,
-    url='https://github.com/machawk1/py-ipfs-swarm-key-gen',
-    download_url="https://github.com/machawk1/py-ipfs-swarm-key-gen",
+    url='https://github.com/machawk1/piskg',
+    download_url="https://github.com/machawk1/piskg",
     author='Mat Kelly',
     author_email='mkelly@cs.odu.edu',
     description=desc,
@@ -31,4 +31,4 @@ setup(
     ]
 )
 
-# Publish to pypi: twine upload dist/*
+# Publish to pypi: rm -rf dist; python setup.py sdist bdist_wheel; twine upload dist/*
