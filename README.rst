@@ -22,7 +22,7 @@ Usage
 
 Change `~/.ipfs/` to different directory if you use custom IPFS_PATH. To join a private network, save the key value to your `~/.ipfs/swarm.key`.
 
-When using this feature, you will not be able to connect to the default bootstrap nodes (since they are not part of your private network, so you will need to set up your own bootstrap nodes.
+When using this feature, you will not be able to connect to the default bootstrap nodes since they are not part of your private network, so you will need to set up your own bootstrap nodes.
 
 To prevent your node from even trying to connect to the default bootstrap nodes, run:
 
