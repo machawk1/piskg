@@ -1,4 +1,4 @@
-# piskg (Python IPFS Swarm Key Generator)'
+# piskg (Python IPFS Swarm Key Generator)
 
 This program generates swarm.key file for IPFS Private Network feature.
 
@@ -10,12 +10,12 @@ $ pip install piskg
 
 ## Usage
 
-``` {.sourceCode .bash}
+```
 $ piskg > ~/.ipfs/swarm.key
 ```
 
-Change \~/.ipfs/ to different directory if you use custom IPFS\_PATH. To
-join a private network, save the key value to your \~/.ipfs/swarm.key.
+Change `~/.ipfs/` to different directory if you use custom `IPFS_PATH`. To
+join a private network, save the key value to your `~/.ipfs/swarm.key`.
 
 When using this feature, you will not be able to connect to the default
 bootstrap nodes since they are not part of your private network, so you
