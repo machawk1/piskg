@@ -1,18 +1,14 @@
----
-title: 'piskg (Python IPFS Swarm Key Generator)'
----
+# piskg (Python IPFS Swarm Key Generator)'
 
 This program generates swarm.key file for IPFS Private Network feature.
 
-Installing
-==========
+## Installing
 
 ``` {.sourceCode .bash}
 $ pip install piskg
 ```
 
-Usage
-=====
+## Usage
 
 ``` {.sourceCode .bash}
 $ piskg > ~/.ipfs/swarm.key
