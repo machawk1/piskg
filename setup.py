@@ -3,7 +3,8 @@
 from setuptools import setup
 from piskg import __version__
 
-long_description = open('README.rst').read()
+with open('README.md') as f:
+    long_description = f.read()
 desc = """Python IPFS Swarm Key Generator"""
 
 setup(
@@ -17,6 +18,7 @@ setup(
     packages=['piskg'],
     license='MIT',
     long_description=long_description,
+    long_description_content_type="text/markdown",
     provides=[
         'piskg'
     ],
