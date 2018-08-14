@@ -1,4 +1,4 @@
-[![image](https://github.com/machawk1/piskg/blob/master/meta/piskgLogo.png?raw=true))](https://pypi.python.org/pypi/piskg)
+[![image](https://github.com/machawk1/piskg/blob/master/meta/piskgLogo.png?raw=true)](https://pypi.python.org/pypi/piskg)
 # piskg: Python IPFS Swarm Key Generator
 
 This program generates swarm.key file for IPFS Private Network feature.
