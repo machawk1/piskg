@@ -29,6 +29,17 @@ setup(
     package_data={},
     keywords='ipfs keygen',
     classifiers=[
+        'License :: OSI Approved :: MIT License',
+        
+        "Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.7"
+        
+        "Topic :: Security :: Cryptography",
+        
+        "Topic :: System :: Distributed Computing",
+        
         'Topic :: Utilities',
     ]
 )
