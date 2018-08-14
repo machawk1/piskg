@@ -40,6 +40,8 @@ Direct port of <https://github.com/Kubuxu/go-ipfs-swarm-key-gen/>. Setup
 information derived from
 <https://github.com/ipfs/go-ipfs/issues/3397#issuecomment-284341649>.
 
+Logo derived from work by [Eagle Eye](https://thenounproject.com/eagleeye/) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)) and [Sergey Demushkin](https://thenounproject.com/mockturtle/) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)) and itself licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 License
 =======
 
